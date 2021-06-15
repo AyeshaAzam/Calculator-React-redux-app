@@ -28,4 +28,5 @@ If you haven't used Figma before, here are a couple of great resources to get yo
 - https://www.figma.com/downloads/
 
 
-<img src="https://github.com/AyeshaAzam/Calculator-React-redux-app/blob/master/src/Images/Calc.PNG"
+<img src="https://github.com/AyeshaAzam/Calculator-React-redux-app/blob/master/src/Images/Calc.PNG" />
+ 
