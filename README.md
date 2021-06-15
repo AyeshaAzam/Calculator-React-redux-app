@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## To Create App:
-  run: npx create-react-app calculator-pwj-coaching --template redux
+  run: npx create-react-app calculator-app --template redux  // calculator-app is just a name of the application
 
 ## To install Styled- components
 run: npm I styled-components
